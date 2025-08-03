@@ -51,19 +51,6 @@ npm start
 | TTS            | (measured)   |
 | Playback Start | (measured)   |
 
-## Demo Video
-
-Please record a video showing initial caching and offline response as per the project requirements.
-
-## Email Submission
-
-Email the demo video and GitHub repository link to:
-
-vikas@codingjr.online
-
-Include your full name and phone number in the email.
-
----
 
 ## Notes
 
